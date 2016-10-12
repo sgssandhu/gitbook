@@ -65,7 +65,7 @@ The Table of Contents can be divided into parts separated by headings or horizon
 
 Parts are just groups of chapters and do not have dedicated pages, but according to the theme, it will show in the navigation.
 
-### Pages
+### Pages2
 
 #### Markdown syntax
 
